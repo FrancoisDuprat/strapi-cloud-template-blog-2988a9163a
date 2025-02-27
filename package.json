@@ -9,7 +9,7 @@
     "develop": "strapi develop",
     "seed:example": "node ./scripts/seed.js",
     "start": "strapi start",
-    "strapi": "strapi"
+    "strapi": "strapi develop"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "5.8.0",
